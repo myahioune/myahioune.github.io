@@ -1,5 +1,3 @@
----
-
 **Email :** jean.dupont@email.com  
 **Téléphone :** 06 12 34 56 78
 
@@ -23,5 +21,6 @@
 - Git, Linux
 
 ---
+
 © 2025 Jean Dupont. Tous droits réservés.
 
