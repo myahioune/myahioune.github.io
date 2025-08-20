@@ -1,3 +1,10 @@
+Actually in a position of Technical Leader at IBM, I have over 8 years of experience in software development.
+I'm specialized in software architecture and backend development with some basic knowledge on frontend.
+My expertise includes designing and implementing scalable applications using Java, Spring Boot, and various databases.
+I am passionate about clean code, domain driven design, architecture, and continuous learning to deliver maximum of value to my clients.
+
+---
+
 ## Skills
 
 - **Languages**: Java, JavaScript, Typescript, HTML
@@ -21,12 +28,6 @@
 
 - **Gfi Informatique** — Full-stack Developer  
   septembre 2016 - septembre 2018, Lyon, France
-
-- **Domino's** — Team leader  
-  août 2014 - septembre 2016, Lyon, France
-
-- **Domino's** — Polyvalent employee  
-  mai 2013 - août 2014, Lyon, France
 
 - **Secuserve** — Full-stack Developer  
   mai 2015 - août 2015, Lyon, France
