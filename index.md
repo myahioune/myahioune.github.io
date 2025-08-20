@@ -11,31 +11,28 @@ I am passionate about clean code, domain driven design, architecture, and contin
 - **Frameworks**: Spring Boot, Angular
 - **Databases**: Postgresql, Oracle, Mysql, MongoDB, Neo4J, Elasticsearch
 - **Brokers**: Kafka
-- **Tools**: Docker, Openshift, Git, Maven
+- **Tools**: Openshift, Docker, Git, Maven, Bamboo, SonarQube
 
 ## Certifications
 
-- Architectural Thinking
-- AWS Certified Cloud Practitioner
+- IBM — Architectural Thinking
+- AWS — Certified Cloud Practitioner
 
 ## Experiences
 
 - **IBM** — Lead Software Engineer  
   juillet 2023 - présent, Lyon, France
-
 - **IBM Interactive** — Software Engineer  
   septembre 2018 - juillet 2023, Lyon, France
-
 - **Gfi Informatique** — Full-stack Developer  
   septembre 2016 - septembre 2018, Lyon, France
-
 - **Secuserve** — Full-stack Developer  
   mai 2015 - août 2015, Lyon, France
 
 ## Education
 
-- **Université Claude Bernard Lyon 1** — Master's degree in Web and Information Technologies, Informatique (2016 - 2018)
-- **Université Claude Bernard Lyon 1** — Bachelor's degree in Information Technologies, Informatique (2012 - 2016)
+- **University Claude Bernard Lyon 1** — Master's degree in Web and Information Technologies, Informatique (2016 - 2018)
+- **University Claude Bernard Lyon 1** — Bachelor's degree in Information Technologies, Informatique (2012 - 2016)
 
 ## Languages
 
